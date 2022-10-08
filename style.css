@@ -24,10 +24,7 @@ nav {
     transition: all 0.6s;
 }
 
-h1 {
-    justify-content: center;
-    text-align: center;
-}
+
 
 nav div {
     padding: 5px;
